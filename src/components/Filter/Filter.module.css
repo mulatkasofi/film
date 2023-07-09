@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@600;700&display=swap');
+.display{
+    display: flex;
+    height: 24px;
+    margin-left: 45px;
+    margin-bottom: 40px;
+   
+}
+.filter{
+    width: 368px;
+  
+    
+}
+.title{
+    width: 58px;
+        height: 24px;
+    
+        font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 24px;
+    
+        color: #80858B;
+        margin:0 0 0 23px;
+        
+
+}

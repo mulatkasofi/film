@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@600;700&display=swap');
+.display{
+    display: flex;
+}
+.poster{
+    height: 356px;
+        width: 266px;
+        border-radius: 20px;
+        margin-bottom: 32px;
+}
+.save1{
+    width: 133px;
+        height: 56px;
+    
+    border-radius: 10px 0px 0px 10px;
+        background: #323537;
+       border-right:2px solid black;
+       border-bottom: 0;
+       border-top: 0;
+       border-left: 0;
+}
+.save12{
+    width: 133px;
+        height: 56px;
+    
+        border-radius: 10px 0px 0px 10px;
+        background: white;
+        border-right: 2px solid black;
+        border-bottom: 0;
+        border-top: 0;
+        border-left: 0;
+}
+.save2 {
+    width: 133px;
+    height: 56px;
+
+
+    background: #323537;
+    border: none;
+    border-radius: 0px 10px 10px 0;
+    
+}
+.genre{
+    width: 223px;
+    font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #AFB2B6;
+        margin: 0;
+}
+.info{
+    margin-left: 42px;
+}
+.title{
+    font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 60px;
+    
+        color: #FFFFFF;
+}
+.imdb{
+width: 79px;
+    height: 28px;
+
+    /* Background Colors/Graphite */
+
+    background: #323537;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imdbRate{
+font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 10px;
+
+    color: #FFFFFF;
+}
+.run{
+font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    
+
+    color: #FFFFFF;
+}
+.rate{
+    display: flex;
+    width: 178px;
+    justify-content: space-between;
+}
+.plot{
+    font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        width: 878px;
+    margin-top: 42px;
+        color: #FFFFFF;
+}
+.name{
+    font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px;
+     
+    
+        color: #AFB2B6;
+}
+.nameInfo{
+    font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+    
+    
+        color: #FFFFFF;
+}
+.infoB{
+    display: flex;
+  width: 525px;
+  margin-top: 40px;
+
+    justify-content: space-between;
+}
+/* .rec{
+    font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 36px;
+        margin-bottom: 40px;
+    
+        color: #FFFFFF;
+}
+.main{
+    display: flex;
+}
+.recom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 56px;
+}
+.bt{
+    border: none;
+    background-color: black;
+} */

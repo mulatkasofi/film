@@ -1,0 +1,26 @@
+.text{
+    color: white;
+    background-color: #323537;
+    margin: 0;
+}
+.color{
+    background-color: #323537;
+    border-radius: 10px;
+}
+.h{
+
+color: black;
+padding-right: 10px;
+}
+.textInput{
+
+            width: 145px;
+            height: 56px;
+            border: none;
+    
+            background: #323537;
+            border-radius: 10px;
+            padding-left: 20px;
+    
+        
+}

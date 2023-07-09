@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@600;700&display=swap');
+
+.title{
+    font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        color: #FFFFFF;
+        max-width: 266px;
+}
+.card{
+    border-radius: 20px;
+    
+}
+.img{
+    border-radius: 20px;
+    height: 357px;
+        width: 266px;
+       
+}

@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@600;700&display=swap');
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 56px;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+body{
+    background-color: black;
+    
+}
+.search{
+    position: relative;
+    border: none;
+    background-color: #323537;
+    right: 70px;
+    top:3px;
+}
+.searchImg{
+    width: 20px;
+    height: 20px;
+    background-color: #323537;
+}
+.input{
+
+        width: 1164px;
+        height: 56px;
+        background: #323537;
+        border-radius: 10px;
+        border: none;
+        padding-left: 20px;
+}
+.filterButton{
+    position: relative;
+    right: 65px;
+    background-color: #323537;
+    border: none;
+
+}
+.filter{
+    background-color: #323537;
+}
+.shortName{
+    width: 56px;
+        height: 56px;
+        background: #7B61FF;
+        border-radius: 10px;
+        color: white;
+            font-family: 'Exo 2';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 56px;
+            letter-spacing: 0.05em;
+            text-align: center;
+
+}
+.name{
+    color: white;
+        font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 56px;
+        margin-left: 20px;
+        margin-right: 58px;
+}
+.button{
+    border: none;
+}
+.filterBlock{
+    position: absolute;
+    display: flex;
+     width: 100%;
+    height:1150px;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, .7);
+    z-index: 100;
+
+   
+   
+}
+.filterWrapper{
+    position: absolute;
+    width: 438px;
+    height: fit-content;
+    background-color: #242426;
+bottom: 500px;
+        left: 1090px;
+        padding: 48px 40px;
+}
+
+.filterNone{
+    display: none;
+}
+.title{
+
+font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    background-color: #242426;
+}
+.inform{
+    display: flex;
+    justify-content: space-between;
+        background-color: #242426;
+}
+.cancel{
+        background-color: #242426;
+        border: none;
+}
+.cancelImg{
+    background-color: #242426;
+}
+.sort{
+    width: 219px;
+    height: 56px;
+    background: #323537;
+    font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    border: none;
+    color: #FFFFFF;
+    margin-bottom: 32px;
+}
+.sortBt{
+    width: 219px;
+        height: 56px;
+        background: #242426;
+        font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        border: none;
+        color: #80858B;
+        border:3px solid #323537;
+        margin-bottom: 32px;
+}
+.sortButton{
+    display: flex;
+    justify-content: center;
+    background-color: #242426;
+    border-bottom: 1px solid #323537;
+    margin-bottom: 32px;
+}
+.sortButtonClick{
+    display: flex;
+        justify-content: center;
+        background: #242426;
+        border-bottom: 1px solid #323537;
+        margin-bottom: 32px;
+        
+}
+.sortBy{
+    font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px;
+        color: #FFFFFF;
+        margin-bottom: 8px;
+        background-color:#242426 ;
+       
+}
+.textInput{
+    width: 418px;
+        height: 56px;
+border: none;
+    
+        background: #323537;
+        border-radius: 10px;
+        padding-left: 20px;
+       
+}
+.textInput1 {
+    width: 179px;
+    height: 56px;
+    border: none;
+
+    background: #323537;
+    border-radius: 10px;
+    padding-left: 20px;
+
+}
+.inputForYear{
+    display: flex;
+    justify-content: space-between;
+    background-color: #242426;
+}
+.titleSeearch{
+        background-color: #242426;
+}
+.show{
+    width: 199px;
+        height: 56px;
+    
+        background: #7B61FF;
+        border-radius: 10px;
+        font-family: 'Exo 2';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 24px;
+            color: #FFFFFF;
+            border: none;
+            
+}
+.buttons{
+    margin-top: 50px;
+    background-color: #242426;
+    display: flex;
+    justify-content: space-between;
+}
+.clear{
+    width: 199px;
+        height: 56px;
+    font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px;
+      color: #FFFFFF;
+    
+        background: #323537;
+        border-radius: 10px;
+        border: none;
+}
